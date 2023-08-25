@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/style.css">
+    <title>Projeto Sherlock</title>
+</head>
+
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li>
+                    <a href="#temp1"> Temporada 1 </a>
+                </li>
+
+                <li>
+                    <a href="#temp2"> Temporada 2 </a>
+                </li>
+                <li>
+                    <a href="#temp3"> Temporada 3 </a>
+                </li>
+                <li>
+                    <a href="#temp4"> Temporada 4 </a>
+                </li>
+            </ul>
+        </nav>
+
+    </header>
+    <main class="banner">
+        <h1>Sherlock</h1>
+        <p>
+            Descrição:<br>
+            <br> O dr. John Watson precisa de um lugar para morar em Londres.
+            Ele é apresentado ao detetive Sherlock Holmes e os dois acabam desenvolvendo uma parceria intrigante, na
+            qual a dupla vagará pela capital inglesa solucionando assassinatos e outros crimes brutais.
+            <br> Tudo isso em pleno século XXI.
+        </p>
+
+    </main>
+    <section id="temp1" class="secao-temp">
+        <h2 class="secao-titulo">Temporada 1</h2>
+        <img src="" alt="" />
+        <h3 class="secao-subtitulo">Sinopse</h3>
+        <p class="secao-descrição">John Watson retorna da guerra e é obrigado a procurar um lugar onde morar em Londres. É aí que conhece o detetive Sherlock Holmes. O dois acabam se unindo numa parceria para solucionar uma série de crimes que parecem suicídios. Símbolos misteriosos começam a aparecer em assassinatos por toda Londres.</p>
+
+        <section id="temp1" class="secao-temp">
+            <h2 class="secao-titulo">Temporada 2</h2>
+            <img src="" alt="" />
+            <h3 class="secao-subtitulo">Sinopse:</h3>
+            <p class="secao-descrição">Durante esta temporada, John e Sherlock aprendem a conviver juntos, enquanto Sherlock passa por um processo de humanização, aprendendo a lidar com os próprios sentimentos. Os episódios são dividos em "Sherlock e o Amor", "Sherlock e o Medo" e "Sherlock e a Morte".</p>
+
+            <section id="temp1" class="secao-temp">
+                <h2 class="secao-titulo">Temporada 3</h2>
+                <img src="" alt="" />
+                <h3 class="secao-subtitulo">Sinopse:</h3>
+                <p class="secao-descrição">Mycroft chama Sherlock de volta a Londres para investigar uma organização terrorista clandestina. O detetive decide então fazer uma surpresa para John. Sherlock enfrenta seu maior desafio: fazer um discurso de padrinho no casamento de John. Mas nem tudo é o que parece.</p>
+
+                <section id="temp1" class="secao-temp">
+                    <h2 class="secao-titulo">Temporada 4</h2>
+                    <img src="" alt="" />
+                    <h3 class="secao-subtitulo">Sinopse:</h3>
+                    <p class="secao-descrição"> A 4ª temporada começa com Sherlock Holmes (Benedict Cumberbatch) mais uma vez em solo britânico, enquanto o Dr. Watson (Martin Freeman) e sua esposa Mary (Amanda Abbington) se preparam para seu maior desafio: tornar-se pais.</p>
+
+                    <a href="" class="secao-botao">Assista ao trailer</a>
+                </section>
+
+</body>
+
+</html>
