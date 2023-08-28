@@ -68,6 +68,21 @@
                     <a href="" class="secao-botao">Assista ao trailer</a>
                 </section>
 
+<section id="Elenco" class="elenco">
+        <h2 class="secao-elenco">Elenco</h2>
+        <p> Benedict Cumberbatch: Sherlock Holmes
+        <p> Martin Freeman: John Watson
+        <p> Mark Gatiss: Mycroft
+        <p> Amanda Abbington: Mary
+        <p> Andrew Scott: Jim Moriarty
+        <p> Una Stubbs: Mr Hudson
+
+        </p>
+
+
+    </section>
+
+
 </body>
 
 </html>
