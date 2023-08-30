@@ -30,57 +30,87 @@
         </nav>
 
     </header>
+
     <main class="banner">
-        <h1>Sherlock</h1>
+        <h1>SHERLOCK</h1>
         <p>
-            Descrição:<br>
-            <br> O dr. John Watson precisa de um lugar para morar em Londres.
+            Descrição:
+            O dr. John Watson precisa de um lugar para morar em Londres.
             Ele é apresentado ao detetive Sherlock Holmes e os dois acabam desenvolvendo uma parceria intrigante, na
             qual a dupla vagará pela capital inglesa solucionando assassinatos e outros crimes brutais.
-            <br> Tudo isso em pleno século XXI.
+            Tudo isso em pleno século XXI.
         </p>
-
     </main>
+
     <section id="temp1" class="secao-temp">
         <h2 class="secao-titulo">Temporada 1</h2>
-        <img src="" alt="" />
+        <img src="https://1.bp.blogspot.com/-SgBBPvifu8Q/XR4QZd_f9LI/AAAAAAAAJuQ/I7ZLwbRx5MEU83PleTrv0dMo8fm04LQDgCLcBGAs/s1600/E7.jpg"
+            alt="Imagem: Benedict Cumberbatch e Martin Freeman em Sherlock (2010)" />
+
         <h3 class="secao-subtitulo">Sinopse</h3>
-        <p class="secao-descrição">John Watson retorna da guerra e é obrigado a procurar um lugar onde morar em Londres. É aí que conhece o detetive Sherlock Holmes. O dois acabam se unindo numa parceria para solucionar uma série de crimes que parecem suicídios. Símbolos misteriosos começam a aparecer em assassinatos por toda Londres.</p>
-
-        <section id="temp1" class="secao-temp">
-            <h2 class="secao-titulo">Temporada 2</h2>
-            <img src="" alt="" />
-            <h3 class="secao-subtitulo">Sinopse:</h3>
-            <p class="secao-descrição">Durante esta temporada, John e Sherlock aprendem a conviver juntos, enquanto Sherlock passa por um processo de humanização, aprendendo a lidar com os próprios sentimentos. Os episódios são dividos em "Sherlock e o Amor", "Sherlock e o Medo" e "Sherlock e a Morte".</p>
-
-            <section id="temp1" class="secao-temp">
-                <h2 class="secao-titulo">Temporada 3</h2>
-                <img src="" alt="" />
-                <h3 class="secao-subtitulo">Sinopse:</h3>
-                <p class="secao-descrição">Mycroft chama Sherlock de volta a Londres para investigar uma organização terrorista clandestina. O detetive decide então fazer uma surpresa para John. Sherlock enfrenta seu maior desafio: fazer um discurso de padrinho no casamento de John. Mas nem tudo é o que parece.</p>
-
-                <section id="temp1" class="secao-temp">
-                    <h2 class="secao-titulo">Temporada 4</h2>
-                    <img src="" alt="" />
-                    <h3 class="secao-subtitulo">Sinopse:</h3>
-                    <p class="secao-descrição"> A 4ª temporada começa com Sherlock Holmes (Benedict Cumberbatch) mais uma vez em solo britânico, enquanto o Dr. Watson (Martin Freeman) e sua esposa Mary (Amanda Abbington) se preparam para seu maior desafio: tornar-se pais.</p>
-
-                    <a href="" class="secao-botao">Assista ao trailer</a>
-                </section>
-
-<section id="Elenco" class="elenco">
-        <h2 class="secao-elenco">Elenco</h2>
-        <p> Benedict Cumberbatch: Sherlock Holmes
-        <p> Martin Freeman: John Watson
-        <p> Mark Gatiss: Mycroft
-        <p> Amanda Abbington: Mary
-        <p> Andrew Scott: Jim Moriarty
-        <p> Una Stubbs: Mr Hudson
-
+        <p class="secao-descrição">John Watson retorna da guerra e é obrigado a procurar um lugar onde morar em Londres.
+            É aí que conhece o detetive Sherlock Holmes. O dois acabam se unindo numa parceria para solucionar uma série
+            de crimes que parecem suicídios. Símbolos misteriosos começam a aparecer em assassinatos por toda Londres.
         </p>
 
+    </section>
+
+    <section id="temp2" class="secao-temp">
+        <h2 class="secao-titulo">Temporada 2</h2>
+        <img src="https://es.web.img2.acsta.net/pictures/18/11/05/18/04/5429486.jpg"
+            alt="Benedict e Martin Freeman em Sherlock (2012)" />
+        <h3 class="secao-subtitulo">Sinopse:</h3>
+        <p class="secao-descrição">Durante esta temporada, John e Sherlock aprendem a conviver juntos, enquanto Sherlock
+            passa por um processo de humanização, aprendendo a lidar com os próprios sentimentos. Os episódios são
+            dividos em "Sherlock e o Amor", "Sherlock e o Medo" e "Sherlock e a Morte".
+        </p>
 
     </section>
+
+    <section id="temp3" class="secao-temp">
+        <h2 class="secao-titulo">Temporada 3</h2>
+        <img src="https://www.planocritico.com/wp-content/uploads/2020/11/123-Sherlock-3-Temporada.jpg"
+            alt="Benedict e Martin Freeman em Sherlock (2014)" />
+        <h3 class="secao-subtitulo">Sinopse:</h3>
+        <p class="secao-descrição">Mycroft chama Sherlock de volta a Londres para investigar uma organização
+            terrorista clandestina. O detetive decide então fazer uma surpresa para John. Sherlock enfrenta seu
+            maior desafio: fazer um discurso de padrinho no casamento de John. Mas nem tudo é o que parece.
+        </p>
+
+    </section>
+
+    <section id="temp4" class="secao-temp">
+        <h2 class="secao-titulo">Temporada 4</h2>
+        <img src="https://cosmonerd.com.br//uploads/2017/01/sherlock_the_final_problem1.jpg"
+            alt="Benedict e Martin Freeman em Sherlock (2017)" />
+        <h3 class="secao-subtitulo">Sinopse:</h3>
+        <p class="secao-descrição"> A 4ª temporada começa com Sherlock Holmes (Benedict Cumberbatch) mais uma
+            vez em solo britânico, enquanto o Dr. Watson (Martin Freeman) e sua esposa Mary (Amanda Abbington)
+            se preparam para seu maior desafio: tornar-se pais.
+        </p>
+
+    </section>
+
+</html>
+
+<section id="Trailer" class="trailer">
+    <h2 class="secao-trailer">Trailer</h2>
+    <a href="" class="secao-botao">Assista ao trailer</a>
+</section>
+
+<section id="Elenco" class="elenco">
+    <h2 class="secao-elenco">Elenco</h2>
+    <p> Benedict Cumberbatch: Sherlock Holmes
+    <p> Martin Freeman: John Watson
+    <p> Mark Gatiss: Mycroft
+    <p> Amanda Abbington: Mary
+    <p> Andrew Scott: Jim Moriarty
+    <p> Una Stubbs: Mr Hudson
+
+    </p>
+
+
+</section>
 
 
 </body>
