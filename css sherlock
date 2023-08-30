@@ -1,34 +1,49 @@
-body {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+* {
+    box-sizing: border-box;
+    margin: 2px;
+    padding: 2px;
 }
 
 body {
-    background-color:rgb(173, 154, 190) ;
+    background-color: rgb(163, 171, 241);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height: 60px;
+    margin: 60px;
+    padding: 50px;
 }
 
 nav ul {
     list-style-type: none;
     display: inline-block;
+    margin: 20px;
 }
 
-nav ul li a {
+nav ul li {
     display: inline-block;
+    margin: 20px;
 }
 
 nav ul li a {
-
     text-decoration: none;
-    color: red
-
+    color: blue;
 }
 
 .banner {
-    background-image: url('https://www.coxinhanerd.com.br/wp-content/uploads/2020/06/542770-scaled.jpg'); /* Substitua pelo caminho do seu banner */
-    background-size: cover; /* Ajusta o tamanho do banner */
-    height: 400px; /* Altura do banner */
+    background-image: url('https://www.coxinhanerd.com.br/wp-content/uploads/2020/06/542770-scaled.jpg');
+    background-size: cover;
+    height: 400px;
     text-align: center;
-    color: rgb(253, 253, 253);
-    padding-top: 120px; /* Espaçamento do conteúdo em relação ao topo do banner */
+    color: rgb(255, 255, 255);
+    padding-top: 120px;
+    padding: 50px;
     font-size: 24px;
+}
 
+section {
+    background-color: rgb(194, 194, 218);
+    border: 30px solid transparent;
+}
+
+img {
+    max-width: 35%;
 }
